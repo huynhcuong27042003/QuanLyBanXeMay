@@ -1,0 +1,17 @@
+D:\C# LTWIN\QLTTSV\obj\Debug\QLTTSV.csproj.AssemblyReference.cache
+D:\C# LTWIN\QLTTSV\obj\Debug\QLTTSV.Properties.Resources.resources
+D:\C# LTWIN\QLTTSV\obj\Debug\QLTTSV.QLSV.FrmStudent.resources
+D:\C# LTWIN\QLTTSV\obj\Debug\QLTTSV.csproj.GenerateResource.cache
+D:\C# LTWIN\QLTTSV\obj\Debug\QLTTSV.csproj.CoreCompileInputs.cache
+D:\C# LTWIN\QLTTSV\bin\Debug\QLTTSV.exe.config
+D:\C# LTWIN\QLTTSV\bin\Debug\QLTTSV.exe
+D:\C# LTWIN\QLTTSV\bin\Debug\QLTTSV.pdb
+D:\C# LTWIN\QLTTSV\bin\Debug\EntityFramework.dll
+D:\C# LTWIN\QLTTSV\bin\Debug\EntityFramework.SqlServer.dll
+D:\C# LTWIN\QLTTSV\bin\Debug\EntityFramework.xml
+D:\C# LTWIN\QLTTSV\bin\Debug\EntityFramework.SqlServer.xml
+D:\C# LTWIN\QLTTSV\obj\Debug\QLTTSV.csproj.CopyComplete
+D:\C# LTWIN\QLTTSV\obj\Debug\QLTTSV.exe
+D:\C# LTWIN\QLTTSV\obj\Debug\QLTTSV.pdb
+D:\C# LTWIN\QLTTSV\obj\Debug\QLTTSV.QLSV.FrmFaculty.resources
+D:\C# LTWIN\QLTTSV\obj\Debug\QLTTSV.FrmFind.resources
